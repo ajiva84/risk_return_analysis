@@ -5,11 +5,11 @@ The aim of this project is to provide a easy way to provide inexpensive investme
 
 ## Technologies
 
-Python is the primary language used to code this applicaton
-CSV library is utilized to read the data
-Pands library to prepare and analyze the data
-NumPy library for mathenathical computation
-Matplotlib library for creating static, animated, and interactive visualizations in Python
+Python is the primary language used to code this applicaton.
+CSV library is utilized to read the data.
+Pands library to prepare and analyze the data.
+NumPy library for mathenathical computation.
+Matplotlib library for creating static, animated, and interactive visualizations in Python.
 
 This project leverages python 3.7 with the following packages:
 
